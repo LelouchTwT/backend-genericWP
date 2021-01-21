@@ -24,8 +24,7 @@ module.exports = (server) => {
 
     })
 
-
-
   })
+
 
 }
